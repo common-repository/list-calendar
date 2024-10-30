@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: List Calendar 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-17 12:55+0900\n"
+"PO-Revision-Date: 2015-08-17 12:58+0900\n"
+"Last-Translator: Hiroshi Sawai <info@info-town.jp>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: admin/class-action.php:65 admin/class-action.php:127
+msgid "You are not allowed to add post."
+msgstr "投稿の権限がありません。"
+
+#: admin/class-action.php:76
+msgid "You are not allowed to copy this post."
+msgstr "投稿をコピーする権限がありません。"
+
+#: admin/class-action.php:93 admin/class-action.php:291
+msgid "You are not allowed to delete this post."
+msgstr "投稿を削除する権限がありません。"
+
+#: admin/class-action.php:110 admin/class-action.php:161
+#: admin/class-action.php:199
+msgid "You are not allowed to edit this post."
+msgstr "投稿を編集する権限がありません。"
+
+#: admin/class-action.php:295
+msgid "Error in deleting."
+msgstr "削除エラーです。"
+
+#: admin/class-field.php:52
+msgid "Year"
+msgstr "年"
+
+#: admin/class-field.php:119
+msgid "Tag Not found. Please check tag on List Calendar > Settings"
+msgstr "タグが見つかりませんでした。設定を確認してください。"
+
+#: admin/class-field.php:122
+msgid "Please Set tag do display related post on List Calendar > Settings"
+msgstr "設定画面でタグを設定してください。"
+
+#: admin/class-form.php:31
+msgid "List Calendar Post"
+msgstr "List Calendarの投稿"
+
+#: admin/class-form.php:68
+msgid ""
+"Copy this code and paste it into your post, page or text widget content."
+msgstr ""
+"コードをコピーして投稿、固定ページ、テキストウィジェットへ貼付けてください。"
+
+#: admin/class-form.php:77 admin/class-settings.php:287
+msgid "Save"
+msgstr "保存"
+
+#: admin/class-form.php:89 admin/class-list.php:142
+msgid "Copy"
+msgstr "複製"
+
+#: admin/class-form.php:95
+msgid "Delete"
+msgstr "削除"
+
+#: admin/class-form.php:99
+msgid ""
+"You are about to delete this calendar.\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr "カレンダーを削除しますか。'Cancel'で停止、'OK'で削除します。"
+
+#: admin/class-list.php:30
+msgid "Title"
+msgstr "見出し"
+
+#: admin/class-list.php:31
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: admin/class-list.php:32
+msgid "Author"
+msgstr "作者"
+
+#: admin/class-list.php:33
+msgid "Date"
+msgstr "日付"
+
+#: admin/class-list.php:131
+msgid "Edit"
+msgstr "修正"
+
+#: admin/class-list.php:149
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr "修正 \"%s\""
+
+#: admin/class-list.php:192
+msgid "Y/m/d g:i:s A"
+msgstr "年/月/日"
+
+#: admin/class-list.php:199
+#, php-format
+msgid "%s ago"
+msgstr "%s 前"
+
+#: admin/class-list.php:201
+msgid "Y/m/d"
+msgstr "年/月/日"
+
+#: admin/class-menu.php:66
+msgid "List Calendar"
+msgstr "List Calendar"
+
+#: admin/class-menu.php:67
+msgid "List"
+msgstr "リスト"
+
+#: admin/class-menu.php:82
+msgid "Edit Settings"
+msgstr "設定の編集"
+
+#: admin/class-menu.php:83
+msgid "Settings"
+msgstr "設定"
+
+#: admin/class-menu.php:122
+msgid "Add New"
+msgstr "新規作成"
+
+#: admin/class-menu.php:128
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221;の検索結果"
+
+#: admin/class-menu.php:136
+msgid "Search Calendar"
+msgstr "カレンダーを検索"
+
+#: admin/class-post-factory.php:28
+msgid "Untitled"
+msgstr "Untitled"
+
+#: admin/class-settings.php:106 admin/class-settings.php:132
+#: admin/class-settings.php:158 admin/class-settings.php:185
+msgid "The inputted value is not right."
+msgstr "入力値が正しくありません。"
+
+#: admin/class-settings.php:231
+msgid "You do not have sufficient permissions to access this page"
+msgstr "本ページにアクセスする権限がありません。"
